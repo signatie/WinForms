@@ -1,6 +1,0 @@
-C:\Users\loche\Downloads\TicTacToe1\BoardLogic\bin\Debug\BoardLogic.dll
-C:\Users\loche\Downloads\TicTacToe1\BoardLogic\bin\Debug\BoardLogic.pdb
-C:\Users\loche\Downloads\TicTacToe1\BoardLogic\obj\Debug\BoardLogic.csproj.AssemblyReference.cache
-C:\Users\loche\Downloads\TicTacToe1\BoardLogic\obj\Debug\BoardLogic.csproj.CoreCompileInputs.cache
-C:\Users\loche\Downloads\TicTacToe1\BoardLogic\obj\Debug\BoardLogic.dll
-C:\Users\loche\Downloads\TicTacToe1\BoardLogic\obj\Debug\BoardLogic.pdb
